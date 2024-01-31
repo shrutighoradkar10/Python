@@ -1,3 +1,1 @@
-# Python
 
-THIS IS README ABOUT PYTHON <br> AUTHOR SHRUTI Ghoradkar
